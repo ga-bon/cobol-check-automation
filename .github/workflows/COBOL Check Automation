@@ -1,4 +1,4 @@
-name: COBOL Check Automation
+
 on:
    push:
         branches: [ main ]
